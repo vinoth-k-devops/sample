@@ -7,6 +7,7 @@ VS Extension
 3. vscode-icons
 4. Prettier - Code formatter
 5. C# Dev.
+6. Formatter
 
 
 Markup Validation Service (validator.w3.org)
